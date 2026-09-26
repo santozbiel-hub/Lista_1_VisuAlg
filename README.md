@@ -1,9 +1,9 @@
 # Algoritmos e VisuAlg
 
-Material de estudo de Engenharia da Computação.
+Material de estudo de Engenharia da Computação, organizado por lista.
 
-- **Lista 1:** 18 arquivos `.alg` na raiz.
-- **[Lista 2](listas/lista-2):** enunciado de 12 exercícios de fluxogramas; resoluções PNG pendentes.
-- **[Lista 3](listas/lista-3):** enunciado de 20 exercícios; resoluções `.alg` pendentes.
+- **[Lista 1](listas/lista-1):** 18 soluções em arquivos `.alg` para abrir no VisuAlg.
+- **[Lista 2](listas/lista-2):** enunciado em PDF de 12 exercícios de fluxogramas; resoluções pendentes.
+- **[Lista 3](listas/lista-3):** enunciado em PDF de 20 exercícios; resoluções `.alg` pendentes.
 
-Para executar os algoritmos da lista 1, abra cada arquivo no VisuAlg. Os PDFs das listas 2 e 3 são enunciados, não soluções.
+Os PDFs das listas 2 e 3 contêm enunciados, não soluções.
