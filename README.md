@@ -4,6 +4,10 @@ Exercícios de lógica de programação da Engenharia da Computação e um siste
 
 ![VisuAlg](https://img.shields.io/badge/VisuAlg-Portugol-275DAD)
 
+## Guia de leitura
+
+[Abrir o guia do projeto](docs/arquitetura.md). Veja a organização do material e um roteiro para explorá-lo.
+
 ## Trilha de estudo
 
 | Material | O que explorar |
