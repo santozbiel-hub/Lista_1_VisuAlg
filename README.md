@@ -1,10 +1,16 @@
 # Algoritmos e VisuAlg
 
-Material de estudo de Engenharia da Computação, organizado por lista.
+Exercícios de lógica de programação da Engenharia da Computação e um sistema de atendimento que reúne os conceitos das listas.
 
-- **[Lista 1](listas/lista-1):** 18 soluções em arquivos `.alg`.
-- **[Lista 2](listas/lista-2):** enunciado e 12 fluxogramas em PNG.
-- **[Lista 3](listas/lista-3):** enunciado e 20 soluções em arquivos `.alg`.
-- **[Desafio 1](DESAFIO1):** MedControl, sistema de atendimentos de clínica (Tema 2), em `MedControl.alg`, com o link do vídeo em `video.txt`.
+![VisuAlg](https://img.shields.io/badge/VisuAlg-Portugol-275DAD)
 
-Abra os arquivos `.alg` das listas 1 e 3 no VisuAlg. A lista 2 foi resolvida visualmente conforme o formato solicitado no enunciado.
+## Trilha de estudo
+
+| Material | O que explorar |
+| --- | --- |
+| [Lista 1 · 18 algoritmos](listas/lista-1/README.md) | Abra os arquivos `.alg` e acompanhe as entradas e saídas. |
+| [Lista 2 · 12 fluxogramas](listas/lista-2/README.md) | Siga as decisões e repetições desenhadas nos diagramas. |
+| [Lista 3 · 20 algoritmos](listas/lista-3/README.md) | Compare soluções com vetores, matrizes, ordenação e recursividade. |
+| [Desafio 1 · MedControl](DESAFIO1/README.md) | Veja como funções e procedimentos compõem um programa de terminal. |
+
+Para executar um algoritmo, abra o arquivo `.alg` no VisuAlg e use a opção **Executar**. Os fluxogramas da lista 2 podem ser vistos diretamente no GitHub.
